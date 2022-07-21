@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E05 {
 	public static void main(String[] args) {
-		//Leia um numero real e imprima a quinta parte deste numero
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite um número real: ");

@@ -1,9 +1,5 @@
 package br.com.java.exercicios04;
 
-/* Ler um numero inteiro. Se o numero lido for negativo, escreva a mensagem Numero invalido.
- * Se o numero for positivo, calcular o logaritmo deste numero.
- */
-
 import java.util.Scanner;
 
 public class E12 {

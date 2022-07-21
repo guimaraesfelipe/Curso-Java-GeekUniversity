@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E47 {
 	public static void main(String[] args) {
-		//Leia um número inteiro de 4 digitos e imprima um numero por linha
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite um numero inteiro com 4 caracteres: ");

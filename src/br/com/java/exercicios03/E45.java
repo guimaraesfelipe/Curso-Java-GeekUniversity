@@ -2,18 +2,16 @@ package br.com.java.exercicios03;
 
 import java.util.Scanner;
 
-/* Faça um programa para converter uma letra maíuscula em letra minúscula.
- */
-
-//Utilizado método toUpperCase() para transformar uma string em maiúscula. Ex: ola -> OLA
 public class E45 {
 	public static void main(String[] args) {
+		
 		Scanner teclado = new Scanner(System.in);
 		
-		System.out.println("Digite uma letra: ");
-		String letra = teclado.next().toUpperCase();
+		System.out.println("Digite uma letra MAIÚSCULA: ");
+		char maiuscula = teclado.next().charAt(0);
+		char minuscula = (char) (maiuscula + 32);
 		
-		System.out.println(letra);
+		System.out.println(minuscula);
 		
 		teclado.close();
 	}

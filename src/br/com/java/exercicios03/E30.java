@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E30 {
 	public static void main(String[] args) {
-		//Leia um valor em real e a cotação do dolar. Em seguida imprima o valor correspondente em dolares
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite o valor em real: ");

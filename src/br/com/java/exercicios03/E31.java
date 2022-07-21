@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E31 {
 	public static void main(String[] args) {
-		//Leia um numero inteiro e imprima o seu antecessor e o seu sucessor
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite um numero inteiro: ");

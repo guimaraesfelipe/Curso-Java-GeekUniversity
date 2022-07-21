@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E07 {
 	public static void main(String[] args) {
-		//Leia uma temperatura em graus fahrenheit e apresente-a convertida em graus Celsius
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite a temperatura em graus fahrenheit: ");

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E08 {
 	public static void main(String[] args) {
-		//Leia uma temperatura em graus Kelvin e apresente-a convertida em graus Celsius
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite a temperatura e graus Kelvin: ");

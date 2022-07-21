@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E15 {
 	public static void main(String[] args) {
-		//Leia um ângulo em radianos e apresente-o convertido em graus
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite o ângulo em radianos: ");

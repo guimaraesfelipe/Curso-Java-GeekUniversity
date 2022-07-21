@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E29 {
 	public static void main(String[] args) {
-		//Leia quatro notas, calcule a media aritimetica e imprima o resultado
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite a primeira nota: ");

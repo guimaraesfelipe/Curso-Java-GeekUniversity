@@ -2,10 +2,6 @@ package br.com.java.exercicios04;
 
 import java.util.Scanner;
 
-/* Usando switch, escreva um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana correspondente a este numero.
- * Isto é, domingo se 1, segunda se 2 e etc.
- */
-
 public class E15 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);

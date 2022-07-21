@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E03 {
 	public static void main(String[] args) {
-		//Peça para o usuario digitar três valores inteiros e imprima a soma deles
 		int num1, num2, num3;
 		
 		Scanner teclado = new Scanner(System.in);

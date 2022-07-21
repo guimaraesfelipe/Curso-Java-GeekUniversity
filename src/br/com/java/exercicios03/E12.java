@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E12 {
 	public static void main(String[] args) {
-		//Leia uma distancia em milhas e apresente-a convertida em quilometros
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite a distancia em milhas: ");

@@ -1,10 +1,5 @@
 package br.com.java.exercicios04;
 
-/* Faça um programa que leia um numero e caso ele seja positivo calcule e mostr:
- * - O numero digitado ao quadrado
- * - A raiz quadrada do numero digitado
- */
-
 import java.util.Scanner;
 
 public class E04 {

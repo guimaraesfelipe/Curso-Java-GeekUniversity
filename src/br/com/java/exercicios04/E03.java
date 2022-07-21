@@ -1,8 +1,5 @@
 package br.com.java.exercicios04;
 
-/* Leia um numero real. Se o numero for positivo imprima a raiz quadrada. Do contrario imprima o numero ao quadrado
- */
-
 import java.util.Scanner;
 
 public class E03 {

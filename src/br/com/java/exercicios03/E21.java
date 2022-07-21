@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class E21 {
 
 	public static void main(String[] args) {
-		//Leia um valor de massa em libras e apresente-o convertido em quilogramas
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite a massa em libras: ");

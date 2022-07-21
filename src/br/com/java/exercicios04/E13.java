@@ -2,14 +2,6 @@ package br.com.java.exercicios04;
 
 import java.util.Scanner;
 
-/* Faça um algoritmo que calcule a média ponderada das notas de 3 provas.
- * A primeira e a segunda prova tem peso 1 e a terceira tem peso 2.
- * Ao final mostrar a media do aluno e indicar se o aluno foi aprovado ou reprovado.
- * A nota para aprovação deve ser igual ou superior a 60 pontos
- * 
- * Mp = [(N1 x P1) + (N2 x P2) + (N3 x P3) + ... (Nx x Px)] ÷ (P1 + P2 + P3 + ... Px).
- */
-
 public class E13 {
 
 	public static void main(String[] args) {

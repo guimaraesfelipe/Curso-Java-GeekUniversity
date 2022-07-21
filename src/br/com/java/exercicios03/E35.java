@@ -2,9 +2,6 @@ package br.com.java.exercicios03;
 
 import java.util.Scanner;
 
-/* Faça um programa que receba os valores A e B e calcule o valor da hipotenusa. Imprima o resultado dessa operação
- */
-
 public class E35 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);

@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class E36 {
 
 	public static void main(String[] args) {
-		//Leia a altura e o raio de um cilindro circular e imprima o volume do cilindro.
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite a altura do cilindro: ");

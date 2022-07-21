@@ -1,9 +1,5 @@
 package br.com.java.exercicios04;
 
-/* Faça um programa que receba um numero inteiro e verifique se este numero é par ou impar
- * 
- */
-
 import java.util.Scanner;
 
 public class E05 {

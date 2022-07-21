@@ -2,11 +2,6 @@ package br.com.java.exercicios04;
 
 import java.util.Scanner;
 
-/* Usando switch, escreva um programa que leia um inteiro entre 1 e 12 e imprima o mês correspondente a este numero.
- * 
- * 
- */
-
 public class E16 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);

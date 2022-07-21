@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E24 {
 	public static void main(String[] args) {
-		//Leia um valor de area em metros quadrados e apresente-o convertido em acres
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite a área em metros quadrados: ");

@@ -1,9 +1,5 @@
 package br.com.java.exercicios04;
 
-/* Faça um programa que receba dois numeros e mostre qual é o maior
- * 
- */
-
 import java.util.Scanner;
 
 public class E01 {

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E23 {
 	public static void main(String[] args) {
-		//Leia um valor de comprimento em metros e apresente-o convertido em jardas
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite o comprimento em metros: ");

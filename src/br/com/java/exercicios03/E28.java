@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class E28 {
 
 	public static void main(String[] args) {
-		//Faça a leitura de tres valores e apresente como resultado a soma dos quadrados dos tres valores lidos
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite o primeiro valor: ");

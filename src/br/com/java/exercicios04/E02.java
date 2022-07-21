@@ -2,10 +2,6 @@ package br.com.java.exercicios04;
 
 import java.util.Scanner;
 
-/* Leia um número fornecido pelo usuário. Se esse numero for positivo, calcule a raiz quadrada do numero.
- * Se o numero for negativo, mostre uma mensagem dizendo que o número é invalido. 
- */
-
 public class E02 {
 
 	public static void main(String[] args) {

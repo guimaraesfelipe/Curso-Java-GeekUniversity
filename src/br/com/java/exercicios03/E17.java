@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class E17 {
 	public static void main(String[] args) {
-		//Leia um valor de comprimento em centimetros e apresente-o convertido em polegadas
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Digite o valor do comprimento em centimetros: ");

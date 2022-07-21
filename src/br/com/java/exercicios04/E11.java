@@ -1,10 +1,5 @@
 package br.com.java.exercicios04;
 
-/*
- * Escreva um programa que leia uma numero inteiro maior do que zero e devolva na tela a soma de todos os seus algarismos.
- * Se o numero lido nao for maior que zero o programa terminara com a mensagem Numero Invalido.
- */
-
 import java.util.Scanner;
 
 public class E11 {
